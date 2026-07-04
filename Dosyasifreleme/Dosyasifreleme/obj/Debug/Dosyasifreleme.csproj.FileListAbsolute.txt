@@ -1,0 +1,11 @@
+C:\Users\Yusuf\source\repos\Dosyasifreleme\Dosyasifreleme\bin\Debug\Dosyasifreleme.exe.config
+C:\Users\Yusuf\source\repos\Dosyasifreleme\Dosyasifreleme\bin\Debug\Dosyasifreleme.exe
+C:\Users\Yusuf\source\repos\Dosyasifreleme\Dosyasifreleme\bin\Debug\Dosyasifreleme.pdb
+C:\Users\Yusuf\source\repos\Dosyasifreleme\Dosyasifreleme\obj\Debug\Dosyasifreleme.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\Dosyasifreleme\Dosyasifreleme\obj\Debug\Dosyasifreleme.DSS.resources
+C:\Users\Yusuf\source\repos\Dosyasifreleme\Dosyasifreleme\obj\Debug\Dosyasifreleme.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\Dosyasifreleme\Dosyasifreleme\obj\Debug\Dosyasifreleme.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\Dosyasifreleme\Dosyasifreleme\obj\Debug\Dosyasifreleme.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\Dosyasifreleme\Dosyasifreleme\obj\Debug\Dosyasifreleme.exe
+C:\Users\Yusuf\source\repos\Dosyasifreleme\Dosyasifreleme\obj\Debug\Dosyasifreleme.pdb
+C:\Users\Yusuf\source\repos\Dosyasifreleme\Dosyasifreleme\obj\Debug\Dosyasifreleme.exe.config
