@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\",
+  "WorkspaceRootPath": "C:\\Users\\Yusuf\\Documents\\GitHub\\Dosya\u015EifrelemeYesie\\Dosyasifreleme\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|c:\\users\\yusuf\\source\\repos\\dosyasifreleme\\dosyasifreleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|c:\\users\\yusuf\\documents\\github\\dosya\u015Fifrelemeyesie\\dosyasifreleme\\dosyasifreleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|solutionrelative:dosyasifreleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\dosyasifreleme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|C:\\Users\\Yusuf\\Documents\\GitHub\\Dosya\u015EifrelemeYesie\\Dosyasifreleme\\dosyasifreleme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|solutionrelative:dosyasifreleme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\dosyasifreleme\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|C:\\Users\\Yusuf\\Documents\\GitHub\\Dosya\u015EifrelemeYesie\\Dosyasifreleme\\dosyasifreleme\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|solutionrelative:dosyasifreleme\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\dosyasifreleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|C:\\Users\\Yusuf\\Documents\\GitHub\\Dosya\u015EifrelemeYesie\\Dosyasifreleme\\dosyasifreleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10D61D5B-68A1-42F9-B7B5-F5BC4C89002F}|Dosyasifreleme\\Dosyasifreleme.csproj|solutionrelative:dosyasifreleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -40,24 +40,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\Dosyasifreleme\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\Documents\\GitHub\\Dosya\u015EifrelemeYesie\\Dosyasifreleme\\Dosyasifreleme\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Dosyasifreleme\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\Dosyasifreleme\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Yusuf\\Documents\\GitHub\\Dosya\u015EifrelemeYesie\\Dosyasifreleme\\Dosyasifreleme\\Form1.Designer.cs",
               "RelativeToolTip": "Dosyasifreleme\\Form1.Designer.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAjwDIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T09:41:08.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T09:41:08.456Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\Dosyasifreleme\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\Documents\\GitHub\\Dosya\u015EifrelemeYesie\\Dosyasifreleme\\Dosyasifreleme\\Form1.cs",
               "RelativeDocumentMoniker": "Dosyasifreleme\\Form1.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\Dosyasifreleme\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yusuf\\Documents\\GitHub\\Dosya\u015EifrelemeYesie\\Dosyasifreleme\\Dosyasifreleme\\Form1.cs",
               "RelativeToolTip": "Dosyasifreleme\\Form1.cs",
-              "ViewState": "AgIAANwAAAAAAAAAAAAQwOcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAQwNgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-04T09:34:40.995Z",
               "EditorCaption": ""
@@ -66,23 +65,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\Dosyasifreleme\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\Documents\\GitHub\\Dosya\u015EifrelemeYesie\\Dosyasifreleme\\Dosyasifreleme\\Program.cs",
               "RelativeDocumentMoniker": "Dosyasifreleme\\Program.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\Dosyasifreleme\\Program.cs",
+              "ToolTip": "C:\\Users\\Yusuf\\Documents\\GitHub\\Dosya\u015EifrelemeYesie\\Dosyasifreleme\\Dosyasifreleme\\Program.cs",
               "RelativeToolTip": "Dosyasifreleme\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T09:33:23.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T09:33:23.619Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\Dosyasifreleme\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\Documents\\GitHub\\Dosya\u015EifrelemeYesie\\Dosyasifreleme\\Dosyasifreleme\\Form1.cs",
               "RelativeDocumentMoniker": "Dosyasifreleme\\Form1.cs",
               "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\Dosyasifreleme\\Dosyasifreleme\\Form1.cs [Design]",
-              "RelativeToolTip": "Dosyasifreleme\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Dosyasifreleme\\Dosyasifreleme\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-04T09:20:41.651Z"
             }

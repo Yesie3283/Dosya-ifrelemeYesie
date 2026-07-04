@@ -214,7 +214,7 @@ namespace Dosyasifreleme
                         }
 
                         // Karışıklığı önlemek için buffer boyutunu şifreleme ile aynı yapalım (8192 veya 4096 daha güvenlidir)
-                        byte[] buffer = new byte[8192];
+                        byte[] buffer = new byte[1048576];
                         int okunan;
                         while ((okunan = await okumaStream.ReadAsync(buffer, 0, buffer.Length)) > 0)
                         {
